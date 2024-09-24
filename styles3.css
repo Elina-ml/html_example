@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Задание №3*</title>
+    <link rel="stylesheet" href="styles3.css">
+</head>
+<body>
+<a href="task_main.html">Вернуться к списку заданий</a>
+<p .blue {
+    color: blue;
+} </p>
+<p.red {
+    color: red;
+} </p>
+<p> {
+    font-style: italic;
+    font-weight: normal;
+} </p>
+<p>  {
+    font-style: normal;
+    font-weight: bold;
+} </p>
+<ul>
+    <li .green {
+        color: green;
+    } </li>
+    <ol>
+        <li>.red {
+            color: red;
+        } </li>
+        <li>.blue {
+            color: blue;
+        } </li>
+    </ol>
+</ul>
+</body>
+</html>

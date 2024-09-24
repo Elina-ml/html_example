@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Задание №2</title>
+    <link rel="stylesheet" href="styles2.css">
+</head>
+<body>
+<a href="task_main.html">Вернуться к списку заданий</a>
+p.red {
+    color: red;
+} </p>
+p.red {
+    color: red;
+} </p>
+<p> {
+    font-style: normal;
+    font-weight: bold;
+} </p>
+<p> {
+    font-style: normal;
+    font-weight: bold;
+} </p>
+<p>Все элементы следующего списка (включая подсписок) имеют разные цвета и ни один из них не чёрный:</p>
+<ul>
+    <li> {
+        color: yellow;
+    } </li>
+        <ol>
+            <li> {
+                color: blue;
+            } </li>
+            <li {
+                color: red;
+            } </li></ol> 
+    <li> {
+        color: green;
+    } </li>
+</ul>
+<p>
+    span.xxsmall {
+        font-size: 10px;
+    }
+    span.xsmall {
+        font-size: 20px;
+    }
+    span.medium {
+        font-size: 40px;
+    }
+    span.xlarge {
+        font-size: 60px;
+    }
+    span.large {
+        font-size: 50px;
+    }
+    span.xxlarge {
+        font-size: 70px;
+    }
+    span.small {
+        font-size: 30px;
+    } </p>
+</body>
+</html>
